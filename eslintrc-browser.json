@@ -1,14 +1,13 @@
 {
     "extends": "./eslintrc.json",
+    "parserOptions": {
+        "ecmaVersion": 5
+    },
     "env": {
-
         "ecmaVersion": 5,
-        "browser": true
-        
+        "browser": true    
     },
     "rules": {
-
         "strict": [2, "function"]
-
     }
 }
