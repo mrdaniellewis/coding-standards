@@ -2,10 +2,7 @@
   "name": "mrdaniellewis-coding-standards",
   "version": "1.0.0",
   "description": "My personal coding standards",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "repository": "https://github.com/mrdaniellewis/coding-standards.git",
+  "author": "Daniel Lewis",
   "license": "ISC"
 }
