@@ -1,0 +1,15 @@
+{
+    "extends": './eslintrc.json',
+    "env": {
+
+        "ecmaVersion": 6,
+        "node": true
+        
+    },
+    "rules": {
+
+        "strict": [2, "global"],
+        "no-new-require": 2
+
+    }
+}
