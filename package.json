@@ -5,5 +5,11 @@
   "private": true,
   "repository": "https://github.com/mrdaniellewis/coding-standards.git",
   "author": "Daniel Lewis",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^2.7.0"
+  },
+  "scripts": {
+    "test": "eslint *.js"
+  }
 }
