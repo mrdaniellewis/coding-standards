@@ -6,7 +6,7 @@
   "repository": "https://github.com/mrdaniellewis/coding-standards.git",
   "author": "Daniel Lewis",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^2.7.0"
   },
   "scripts": {
